@@ -61,4 +61,4 @@ elif version == 'v4':
     model.load_state_dict(checkpoint['model'])
 ```
 # Finally
-I have given all three files in the repo. If you run my colab make sure after cloning the git repo of the codebase to change those three files.
+I have given all three files in the repo. If you run my colab make sure that after cloning the git repo of the codebase, you have changed those three files.
