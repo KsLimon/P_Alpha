@@ -26,4 +26,4 @@ for ent in word.ents:
 *Brade FOOD*
 
 ## NOTE
-All data, model, processing and train method are collected from many different source of online.
+All data, model, processing and train method are collected from many different sources of online.
