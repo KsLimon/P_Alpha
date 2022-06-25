@@ -24,3 +24,6 @@ for ent in word.ents:
 *Apple FOOD*<br />
 *Banana FOOD*<br />
 *Brade FOOD*
+
+## NOTE
+All data, model, processing and train method are collected from many different source of online.
